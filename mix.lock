@@ -7,5 +7,6 @@
   "faker": {:hex, :faker, "0.8.0", "91880d7aa0882ceca77849a28cecddaa337e274ac35197b65c7ad38cfa4517ab", [:mix], [], "hexpm"},
   "flow": {:hex, :flow, "0.12.0", "32c5a5f3ff6693e004b6c17a8c64dce2f8cdaf9564912d79427176013a586ab6", [:mix], [{:gen_stage, "~> 0.12.0", [hex: :gen_stage, repo: "hexpm", optional: false]}], "hexpm"},
   "gen_stage": {:hex, :gen_stage, "0.12.0", "74ec6f84ea0e0e81aa26b745870495094de1c59bfdbd012ae3103208ea124623", [:mix], [], "hexpm"},
-  "rustler": {:hex, :rustler, "0.16.0", "9b04237d2e7b30fcae40a28edb56f59aad8f4e3c8790f4996b5f200f649964be", [:mix], [], "hexpm"},
+  "rustler": {:hex, :rustler, "0.21.0", "68cc4fc015d0b9541865ea78e78e9ef2dd91ee4be80bf543fd15791102a45aca", [:mix], [{:toml, "~> 0.5.2", [hex: :toml, repo: "hexpm", optional: false]}], "hexpm"},
+  "toml": {:hex, :toml, "0.5.2", "e471388a8726d1ce51a6b32f864b8228a1eb8edc907a0edf2bb50eab9321b526", [:mix], [], "hexpm"},
 }
